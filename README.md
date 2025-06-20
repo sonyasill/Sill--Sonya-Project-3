@@ -36,6 +36,6 @@ How to automate it with cron?
 ## Acknowledgements
 
  - [Simple Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
- - [EDIT THIS TEXT](https://github.com/matiassingers/awesome-readme)
+ - [How to push code from VS Code](https://graphite.dev/guides/how-to-push-code-from-vscode-to-github)
  - [EDIT THIS TEXT](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
