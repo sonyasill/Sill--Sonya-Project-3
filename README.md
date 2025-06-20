@@ -37,5 +37,8 @@ How to automate it with cron?
 
  - [Simple Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
  - [How to push code from VS Code](https://graphite.dev/guides/how-to-push-code-from-vscode-to-github)
+ - [JSON Data in Python](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
+ - [Python for Loops](https://data36.com/python-nested-loops-if-statements-combined-data-sciene/)
  - [EDIT THIS TEXT](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
