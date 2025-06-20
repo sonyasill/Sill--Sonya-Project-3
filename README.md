@@ -22,9 +22,9 @@ How to install Python 3?
 - Download the official Python installer from the Python.org site
 Where the installation is located (where.exe python)
 
-How to use the log file? EDIT THIS SECTION
+How to use the log file? 
 - For a Python script: python3 loghawk.py /path/to/logfile.log
-- An example is ….
+- In VS Code run the  python file 
 
 How to automate it with cron?
 - A cron job is a scheduled task that runs automatically at specified intervals. Windows has its method for automation—Task Scheduler. Open Task Scheduler, Create a New Task, Define the Trigger, Define the Action, Set Conditions and Settings, Save and Test the Task
