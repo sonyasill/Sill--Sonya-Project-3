@@ -1,0 +1,18 @@
+{
+    "log_files": [
+        "logs/access.log",
+        "logs/app.log",
+        "logs/auth.log",
+        "logs/system.log"
+    ],
+"rules": {
+    "suspicious_login": {
+        "pattern": "Failed password for | Invalid user",
+        "description": "Suspicious login attempt detected"
+    },
+"system_error": {
+    "pattern": "kernel: *error",
+    "description": "Critical system error"
+        }
+    }
+}
